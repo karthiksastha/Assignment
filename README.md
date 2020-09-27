@@ -43,3 +43,26 @@ Q2.1)Write a Python program using function concept that maps list of words into 
 
 2.2)Write a Python function which takes a character (i.e. a string of length 1) and returns True if it is a vowel, False otherwise.
 
+# Python Assignment-5
+
+Q1) Write a function to compute 5/0 and use try/except to catch the exceptions.
+
+Q2)Implement a Python program to generate all sentences where subject is in ["Americans", "Indians"] and verb is in ["Play", "watch"] and the object is in ["Baseball","cricket"].
+
+        Hint: Subject,Verb and Object should be declared in the program as shown below.                
+        subjects=["Americans ","Indians"]
+        verbs=["play","watch"]
+        objects=["Baseball","Cricket"]
+
+Exptected Output  :                       
+                   Americans play Baseball.
+                   Americans play Cricket.
+                   Americans watch Baseball.
+                   Americans watch Cricket.
+                   Indians play Baseball.
+                   Indians play Cricket.
+                   Indians watch Baseball.
+                   Indians watch Cricket.
+                   
+                  
+ 
